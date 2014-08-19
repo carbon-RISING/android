@@ -1,3 +1,11 @@
+
+WIP : Currently building the base, cm has the best hardware support so thats what were using until we have our own repos to track. :)
+
+
+
+
+
+
 CarbonRISING
 ===========
 
